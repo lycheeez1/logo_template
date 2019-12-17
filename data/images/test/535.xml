@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shuffle</folder>
+	<filename>535.jpg</filename>
+	<path>C:\CV_DeepLearning\LOGOdetection\img_logo\resized\shuffle\535.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starbucks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>219</ymin>
+			<xmax>342</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
